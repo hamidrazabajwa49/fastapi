@@ -1,6 +1,5 @@
-[
-  {
-    "patient_id": "P001",
+{
+  "P001": {
     "name": "Sarah Jenkins",
     "age": 34,
     "gender": "Female",
@@ -9,8 +8,7 @@
     "weight": "62 kg",
     "verdict": "Healthy"
   },
-  {
-    "patient_id": "P002",
+  "P002": {
     "name": "Marcus Chen",
     "age": 52,
     "gender": "Male",
@@ -19,8 +17,7 @@
     "weight": "89 kg",
     "verdict": "Pre-diabetic"
   },
-  {
-    "patient_id": "P003",
+  "P003": {
     "name": "Elena Rostova",
     "age": 29,
     "gender": "Female",
@@ -29,8 +26,7 @@
     "weight": "55 kg",
     "verdict": "Underweight"
   },
-  {
-    "patient_id": "P004",
+  "P004": {
     "name": "David O'Connor",
     "age": 45,
     "gender": "Male",
@@ -39,8 +35,7 @@
     "weight": "95 kg",
     "verdict": "Hypertension Stage 1"
   },
-  {
-    "patient_id": "P005",
+  "P005": {
     "name": "Aaliyah Patel",
     "age": 61,
     "gender": "Female",
@@ -49,8 +44,7 @@
     "weight": "70 kg",
     "verdict": "Overweight"
   },
-  {
-    "patient_id": "P006",
+  "P006": {
     "name": "James Wilson",
     "age": 38,
     "gender": "Male",
@@ -59,8 +53,7 @@
     "weight": "74 kg",
     "verdict": "Healthy"
   },
-  {
-    "patient_id": "P007",
+  "P007": {
     "name": "Maria Garcia",
     "age": 67,
     "gender": "Female",
@@ -69,8 +62,7 @@
     "weight": "68 kg",
     "verdict": "Osteoporosis Risk"
   },
-  {
-    "patient_id": "P008",
+  "P008": {
     "name": "Liam Gallagher",
     "age": 24,
     "gender": "Male",
@@ -79,8 +71,7 @@
     "weight": "81 kg",
     "verdict": "Healthy"
   },
-  {
-    "patient_id": "P009",
+  "P009": {
     "name": "Priya Sharma",
     "age": 41,
     "gender": "Female",
@@ -89,8 +80,7 @@
     "weight": "78 kg",
     "verdict": "Pre-diabetic"
   },
-  {
-    "patient_id": "P010",
+  "P010": {
     "name": "Robert Taylor",
     "age": 59,
     "gender": "Male",
@@ -99,8 +89,7 @@
     "weight": "91 kg",
     "verdict": "High Cholesterol"
   },
-  {
-    "patient_id": "P011",
+  "P011": {
     "name": "Chloe Bennett",
     "age": 19,
     "gender": "Female",
@@ -109,8 +98,7 @@
     "weight": "58 kg",
     "verdict": "Healthy"
   },
-  {
-    "patient_id": "P012",
+  "P012": {
     "name": "Tariq Al-Mansoor",
     "age": 50,
     "gender": "Male",
@@ -119,8 +107,7 @@
     "weight": "102 kg",
     "verdict": "Obese Class 1"
   },
-  {
-    "patient_id": "P013",
+  "P013": {
     "name": "Jessica Miller",
     "age": 31,
     "gender": "Female",
@@ -129,8 +116,7 @@
     "weight": "64 kg",
     "verdict": "Healthy"
   },
-  {
-    "patient_id": "P014",
+  "P014": {
     "name": "Carlos Gomez",
     "age": 48,
     "gender": "Male",
@@ -139,8 +125,7 @@
     "weight": "83 kg",
     "verdict": "Hypertension Stage 2"
   },
-  {
-    "patient_id": "P015",
+  "P015": {
     "name": "Hannah Schmidt",
     "age": 73,
     "gender": "Female",
@@ -149,8 +134,7 @@
     "weight": "60 kg",
     "verdict": "Arthritis"
   },
-  {
-    "patient_id": "P016",
+  "P016": {
     "name": "Kevin Kowalski",
     "age": 27,
     "gender": "Male",
@@ -159,8 +143,7 @@
     "weight": "79 kg",
     "verdict": "Healthy"
   },
-  {
-    "patient_id": "P017",
+  "P017": {
     "name": "Yuki Tanaka",
     "age": 36,
     "gender": "Female",
@@ -169,8 +152,7 @@
     "weight": "49 kg",
     "verdict": "Mild Anemia"
   },
-  {
-    "patient_id": "P018",
+  "P018": {
     "name": "Brandon Vance",
     "age": 43,
     "gender": "Male",
@@ -179,8 +161,7 @@
     "weight": "87 kg",
     "verdict": "Overweight"
   },
-  {
-    "patient_id": "P019",
+  "P019": {
     "name": "Nora Al-Farsi",
     "age": 22,
     "gender": "Female",
@@ -189,8 +170,7 @@
     "weight": "56 kg",
     "verdict": "Healthy"
   },
-  {
-    "patient_id": "P020",
+  "P020": {
     "name": "Arthur Pendelton",
     "age": 65,
     "gender": "Male",
@@ -199,4 +179,4 @@
     "weight": "76 kg",
     "verdict": "Healthy"
   }
-]
+}
