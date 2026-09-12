@@ -1,0 +1,202 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Sarah Jenkins",
+    "age": 34,
+    "gender": "Female",
+    "city": "Chicago",
+    "height": "165 cm",
+    "weight": "62 kg",
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Marcus Chen",
+    "age": 52,
+    "gender": "Male",
+    "city": "Seattle",
+    "height": "178 cm",
+    "weight": "89 kg",
+    "verdict": "Pre-diabetic"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Elena Rostova",
+    "age": 29,
+    "gender": "Female",
+    "city": "Austin",
+    "height": "170 cm",
+    "weight": "55 kg",
+    "verdict": "Underweight"
+  },
+  {
+    "patient_id": "P004",
+    "name": "David O'Connor",
+    "age": 45,
+    "gender": "Male",
+    "city": "Boston",
+    "height": "182 cm",
+    "weight": "95 kg",
+    "verdict": "Hypertension Stage 1"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Aaliyah Patel",
+    "age": 61,
+    "gender": "Female",
+    "city": "Denver",
+    "height": "158 cm",
+    "weight": "70 kg",
+    "verdict": "Overweight"
+  },
+  {
+    "patient_id": "P006",
+    "name": "James Wilson",
+    "age": 38,
+    "gender": "Male",
+    "city": "Atlanta",
+    "height": "175 cm",
+    "weight": "74 kg",
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P007",
+    "name": "Maria Garcia",
+    "age": 67,
+    "gender": "Female",
+    "city": "Miami",
+    "height": "160 cm",
+    "weight": "68 kg",
+    "verdict": "Osteoporosis Risk"
+  },
+  {
+    "patient_id": "P008",
+    "name": "Liam Gallagher",
+    "age": 24,
+    "gender": "Male",
+    "city": "New York",
+    "height": "188 cm",
+    "weight": "81 kg",
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P009",
+    "name": "Priya Sharma",
+    "age": 41,
+    "gender": "Female",
+    "city": "San Francisco",
+    "height": "162 cm",
+    "weight": "78 kg",
+    "verdict": "Pre-diabetic"
+  },
+  {
+    "patient_id": "P010",
+    "name": "Robert Taylor",
+    "age": 59,
+    "gender": "Male",
+    "city": "Dallas",
+    "height": "173 cm",
+    "weight": "91 kg",
+    "verdict": "High Cholesterol"
+  },
+  {
+    "patient_id": "P011",
+    "name": "Chloe Bennett",
+    "age": 19,
+    "gender": "Female",
+    "city": "Portland",
+    "height": "168 cm",
+    "weight": "58 kg",
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P012",
+    "name": "Tariq Al-Mansoor",
+    "age": 50,
+    "gender": "Male",
+    "city": "Houston",
+    "height": "180 cm",
+    "weight": "102 kg",
+    "verdict": "Obese Class 1"
+  },
+  {
+    "patient_id": "P013",
+    "name": "Jessica Miller",
+    "age": 31,
+    "gender": "Female",
+    "city": "San Diego",
+    "height": "172 cm",
+    "weight": "64 kg",
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P014",
+    "name": "Carlos Gomez",
+    "age": 48,
+    "gender": "Male",
+    "city": "Phoenix",
+    "height": "169 cm",
+    "weight": "83 kg",
+    "verdict": "Hypertension Stage 2"
+  },
+  {
+    "patient_id": "P015",
+    "name": "Hannah Schmidt",
+    "age": 73,
+    "gender": "Female",
+    "city": "Minneapolis",
+    "height": "155 cm",
+    "weight": "60 kg",
+    "verdict": "Arthritis"
+  },
+  {
+    "patient_id": "P016",
+    "name": "Kevin Kowalski",
+    "age": 27,
+    "gender": "Male",
+    "city": "Philadelphia",
+    "height": "185 cm",
+    "weight": "79 kg",
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P017",
+    "name": "Yuki Tanaka",
+    "age": 36,
+    "gender": "Female",
+    "city": "Los Angeles",
+    "height": "157 cm",
+    "weight": "49 kg",
+    "verdict": "Mild Anemia"
+  },
+  {
+    "patient_id": "P018",
+    "name": "Brandon Vance",
+    "age": 43,
+    "gender": "Male",
+    "city": "Detroit",
+    "height": "176 cm",
+    "weight": "87 kg",
+    "verdict": "Overweight"
+  },
+  {
+    "patient_id": "P019",
+    "name": "Nora Al-Farsi",
+    "age": 22,
+    "gender": "Female",
+    "city": "Washington D.C.",
+    "height": "164 cm",
+    "weight": "56 kg",
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P020",
+    "name": "Arthur Pendelton",
+    "age": 65,
+    "gender": "Male",
+    "city": "Nashville",
+    "height": "171 cm",
+    "weight": "76 kg",
+    "verdict": "Healthy"
+  }
+]
